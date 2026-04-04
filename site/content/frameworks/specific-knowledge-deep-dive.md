@@ -151,4 +151,4 @@ After reading this article, you should be able to:
 4. Apply the compounding argument: in a leveraged world, even small advantages in specific knowledge produce massive differences in outcome
 5. See why specific knowledge is the foundation — not an optional add-on — of Naval's entire wealth creation framework
 
-> Source: "Arm Yourself With Specific Knowledge" (2019-03-25), "Specific Knowledge Is Highly Creative or Technical" (2019-03-28), "You Won't Get Rich Renting Out Your Time" (2019-03-08), "Become the Best in the World at What You Do" (2019-05-13), "Escape Competition Through Authenticity" (2019-05-16)
+> Source: "Arm Yourself With Specific Knowledge" (2019-03-25), "Specific Knowledge Is Highly Creative or Technical" (2019-03-28), "You Won't Get Rich Renting Out Your Time" (2019-03-08), "Become the Best in the World at What You Do" (2019-05-13), "[[escape-competition-through-authenticity|Escape Competition Through Authenticity]]" (2019-05-16)

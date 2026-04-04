@@ -123,7 +123,7 @@ This reframe is immediately practical. Most stress is not caused by hard work or
 ### The Path to Peace: Truth, Not Technique
 
 > "Self-improvement is just a dressed up form of self-conflict."
-> — Naval Ravikant, "The Path to Peace Is Truth"
+> — Naval Ravikant, "[[path-to-peace-is-truth|The Path to Peace Is Truth]]"
 
 Most happiness approaches are additive: add a morning routine, add gratitude journaling, add meditation. Naval's approach is subtractive. You do not add happiness. You remove the things that cause unhappiness. And the primary cause is being out of alignment with reality.
 
@@ -133,7 +133,7 @@ Most happiness approaches are additive: add a morning routine, add gratitude jou
 When you see something clearly enough, the internal noise stops. When you see that a desire is causing you suffering, you do not need willpower to drop it — the seeing IS the dropping.
 
 > "When you discover the truth, bad habits can disappear. Let's say I'm trying to quit smoking. There are techniques I can try, but they're always painful and difficult. Often, a moment will come when I see myself in a new way that allows the habit to disappear by itself."
-> — Naval Ravikant, "The Path to Peace Is Truth"
+> — Naval Ravikant, "[[path-to-peace-is-truth|The Path to Peace Is Truth]]"
 
 ### Wisdom Begets Stoicism, Not the Reverse
 
@@ -148,10 +148,10 @@ Most people try to become stoic (suppress reactions, endure suffering) and hope 
 ### Society's Role in Unhappiness
 
 > "Individuals search for truth but groups search for consensus — and society is the largest group. So the biggest problem we run into is this: What society wants for you is not always what's good for you."
-> — Naval Ravikant, "Groups Search for Consensus, Individuals Search for Truth"
+> — Naval Ravikant, "[[groups-search-consensus-individuals-search-truth|Groups Search for Consensus, Individuals Search for Truth]]"
 
 > "Guilt is society programming you so effectively that you become your own warden."
-> — Naval Ravikant, "Groups Search for Consensus, Individuals Search for Truth"
+> — Naval Ravikant, "[[groups-search-consensus-individuals-search-truth|Groups Search for Consensus, Individuals Search for Truth]]"
 
 Much of what you think you want is what society told you to want. The career path, the consumption patterns, the relationship structure, the markers of success. Society optimizes for its own perpetuation, not for your peace.
 

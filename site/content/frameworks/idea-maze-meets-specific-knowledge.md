@@ -29,7 +29,7 @@ Specific knowledge is the foundation of wealth creation in Naval's system. It ha
 5. **Is highly creative or technical** — transmitted through apprenticeship, not instruction
 
 > "Specific knowledge is found much more by pursuing your innate talents, your genuine curiosity, and your passion. It's not by going to school for whatever is the hottest job."
-> — Naval Ravikant, "Arm Yourself With Specific Knowledge"
+> — Naval Ravikant, "Arm Yourself With [[specific-knowledge-deep-dive|Specific Knowledge]]"
 
 The problem with specific knowledge alone: it tells you what you are uniquely good at, but not where that uniqueness has economic value. Many people have genuine specific knowledge in domains where no market exists, or where the timing is wrong, or where the obvious application has already been captured by someone else.
 
@@ -91,7 +91,7 @@ The idea maze helps you move from Type 2 (running around trying things) to Type 
 Naval provides the final test:
 
 > "Escape competition through authenticity."
-> — Naval Ravikant, "Escape Competition Through Authenticity"
+> — Naval Ravikant, "[[escape-competition-through-authenticity|Escape Competition Through Authenticity]]"
 
 In the idea maze, the most crowded paths are the ones that look obvious with general knowledge. The paths that match your specific knowledge will be less crowded by definition, because they require YOUR unique combination to navigate. This is how authenticity eliminates competition: not through positioning tricks, but through genuine alignment between who you are and what you build.
 
@@ -116,4 +116,4 @@ After reading this framework, you should be able to:
 4. Identify paths that are open to you specifically because of your unique skill combination
 5. Apply the authenticity filter: if anyone else could take this path as easily as you, it is not the right path
 
-> Source: Naval Ravikant — "Arm Yourself With Specific Knowledge" (2019-03-25), "Escape Competition Through Authenticity" (2019-05-16), "Making Money Isn't About Luck" (2019-03-06). Balaji Srinivasan — The Network State Ch 2.3, The Anthology of Balaji pp. 189-197.
+> Source: Naval Ravikant — "Arm Yourself With [[specific-knowledge-deep-dive|Specific Knowledge]]" (2019-03-25), "[[escape-competition-through-authenticity|Escape Competition Through Authenticity]]" (2019-05-16), "Making Money Isn't About Luck" (2019-03-06). Balaji Srinivasan — The Network State Ch 2.3, The Anthology of Balaji pp. 189-197.

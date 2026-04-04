@@ -63,7 +63,7 @@ Naval's wealth creation framework says: combine specific knowledge with leverage
 
 Every domain has these gaps. Some examples:
 
-| Domain | Stated Preference | Expressed Preference | Specific Knowledge |
+| Domain | Stated Preference | Expressed Preference | [[specific-knowledge-deep-dive|Specific Knowledge]] |
 |--------|------------------|---------------------|-------------------|
 | Education | "We want personalized learning" | Schools buy standardized curriculum | Knowing which specific personalizations parents will pay for vs. which sound good in surveys |
 | Health | "I want to eat healthy" | Meal prep fails, convenience food wins | Knowing the exact friction points where healthy intention collapses |
