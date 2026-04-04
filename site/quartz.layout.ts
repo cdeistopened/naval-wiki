@@ -1,22 +1,18 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// ── SHARED COMPONENTS (all pages) ──────────────────────────────
-
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({
     links: {
+      "Naval Ravikant": "https://www.mfmpod.com",
       "Creative Intelligence Agency": "https://creativeintel.agency",
-      "Skill Stack": "https://skillstack.md",
-      "GitHub": "https://github.com/cdeistopened",
+      GitHub: "https://github.com/cdeistopened/naval-wiki",
     },
   }),
 }
-
-// ── CONTENT PAGE LAYOUT (single articles) ──────────────────────
 
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -42,13 +38,12 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      folderDefaultState: "open",
+      folderDefaultState: "collapsed",
       filterFn: (node) => {
         return node.slugSegment !== "tags"
       },
       sortFn: (a, b) => {
-        // Themes/frameworks first, then skills, then episodes
-        const order = ["frameworks", "skills", "indexes"]
+        const order = ["people", "articles", "skills", "episodes"]
         const aIdx = order.indexOf(a.slugSegment ?? "")
         const bIdx = order.indexOf(b.slugSegment ?? "")
         if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
@@ -60,19 +55,19 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
 }
 
-// ── LIST PAGE LAYOUT (folders, tags) ───────────────────────────
-
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-  ],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -86,12 +81,12 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      folderDefaultState: "open",
+      folderDefaultState: "collapsed",
       filterFn: (node) => {
         return node.slugSegment !== "tags"
       },
       sortFn: (a, b) => {
-        const order = ["frameworks", "skills", "indexes"]
+        const order = ["people", "articles", "skills", "episodes"]
         const aIdx = order.indexOf(a.slugSegment ?? "")
         const bIdx = order.indexOf(b.slugSegment ?? "")
         if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
